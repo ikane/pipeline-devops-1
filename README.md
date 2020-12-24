@@ -14,3 +14,12 @@ grep -ri ip: *
 ```
 psql -h 192.168.5.6 -U vagrant dev
 ```
+
+* Gitlab
+```
+gitlab-ctl status
+```
+
+/etc/hosts
+
+192.168.5.10 gitlab.example.com
